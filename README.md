@@ -1,7 +1,6 @@
 # Crops Classification With Recommendation System using Machine Learning
 
-This project aims to classify different crops based on their images using machine learning techniques. 
-Additionally, it includes a recommendation system to suggest suitable crops based on user input and preferences.
+ The Crop Recommendation System is a application that recommends suitable crops based on specific features such as soil type and temperature. This system utilizes data analysis techniques to suggest crops that are best suited to the given conditions, assisting farmers and agricultural professionals in making informed decisions.
 
 
 **Table of Contents**
@@ -21,7 +20,7 @@ Contributing
 
 License
 ## Project Description
-The objective of this project is to develop a crop classification system that can identify different crops based on their images. 
+The objective of this project is to develop a crop classification system that can identify different crops based on their soil type and temperature. 
 The system utilizes machine learning algorithms to train a model on a labeled dataset of crop images. The trained model can then predict the crop type for new input images.
 
 In addition to crop classification, the project includes a recommendation system. Users can provide inputs such as geographical location, soil type, and climatic conditions to receive personalized crop recommendations. The recommendation system utilizes machine learning techniques to suggest suitable crops based on the given parameters.
